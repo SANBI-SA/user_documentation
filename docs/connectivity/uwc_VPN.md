@@ -98,3 +98,32 @@ A new window will pop up where you must type your authentication credentials (**
 You will now see your VPN connection listed under the `VPN` heading. You'll now be able to connect to the SANBI VPN.
 
 ![Ubuntu 18 OVPN connect](../_media/vpn/ubuntu_18.04/4.png)
+
+
+## Mac OS
+
+### Catalina
+
+**Download the OpenVPN profile file [HERE](https://raw.githubusercontent.com/SANBI-SA/user_documentation/master/docs/_files/OVPN_SANBI_macos.ovpn)**.
+
+ Open the system `Menu` and import a new profile
+
+![Mac OS Import OVPN profile](../_media/vpn/macos/1.png)
+
+ Choose to import from file
+
+![Mac OS Import OVPN profile](../_media/vpn/macos/2.png)
+
+ Select the `OVPN_SANBI_macos.ovpn` file.
+
+ Next you need to input your username and password, click save.
+
+![Mac OS Import OVPN profile](../_media/vpn/macos/3.png)
+
+ Once saved, it should show up on your list of vpns.
+
+![Mac OS Import OVPN profile](../_media/vpn/macos/4.png)
+
+ To connect, just move the slider
+
+![Mac OS Import OVPN profile](../_media/vpn/macos/5.png)

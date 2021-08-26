@@ -8,7 +8,7 @@ Slack is a platform that connects teams with the apps, services, and resources t
 
 The main method for SANBI-wide communication is through using the Slack channel as it is significantly easier to keep track of than email chains.
 
-Please contact [Eugene](mailto:eugene@sanbi.ac.za) (eugene_at_sanbi.ac.za) or [Peter](mailto:pvh@sanbi.ac.za) (pvh_at_sanbi.ac.za) and ask to be added to the Slack channel.
+Please contact [Shadley](mailto:shadley@sanbi.ac.za) (shadley_at_sanbi.ac.za) or [Peter](mailto:pvh@sanbi.ac.za) (pvh_at_sanbi.ac.za) and ask to be added to the Slack channel.
 
 ## Personal Contact
 
@@ -28,12 +28,13 @@ Contact information for each SANBI staff member is as followed:
 
 |Person                  |Email                  |Short Code |
 |------------------------|:---------------------:|----------:|
-|Peter van Heusden       |pvh_at_sanbi.ac.za     |2360       |
+|Peter van Heusden       |pvh_at_sanbi.ac.za     |2360
 |Hocine Bendou           |hocine_at_sanbi.ac.za  |2356       |
 |Quinton Coert           |quinton_at_sanbi.ac.za |2356       |
 |Eugene de Beste         |eugene_at_sanbi.ac.za  |2356       |
 |Thoba Lose              |thoba_at_sanbi.ac.za   |2356       |
 |Ziphozakhe Mashologu    |zipho_at_sanbi.ac.za   |2356       |
+|Shadley Wentzel         |pvh_at_sanbi.ac.za     |2356       |
 
 ### Administrative
 
