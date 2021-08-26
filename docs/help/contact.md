@@ -31,7 +31,6 @@ Contact information for each SANBI staff member is as followed:
 |Peter van Heusden       |pvh_at_sanbi.ac.za     |2360
 |Hocine Bendou           |hocine_at_sanbi.ac.za  |2356       |
 |Quinton Coert           |quinton_at_sanbi.ac.za |2356       |
-|Eugene de Beste         |eugene_at_sanbi.ac.za  |2356       |
 |Thoba Lose              |thoba_at_sanbi.ac.za   |2356       |
 |Ziphozakhe Mashologu    |zipho_at_sanbi.ac.za   |2356       |
 |Shadley Wentzel         |pvh_at_sanbi.ac.za     |2356       |
