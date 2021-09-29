@@ -42,6 +42,25 @@ The file will now be copied straight to my computer.
 
 ---
 
+## rsync
+
+`rsync` is an alternative to `scp` that "synchronises" files from one computer to another. The rsync protocol offers advantages when you want to move multiple files around. To use rsync, set up the initial ssh connection (this creates a "data pipe") as above and
+then use the command:
+
+```bash
+rsync -e 'ssh -p <port number>' <file path> <cluster username>@localhost:
+```
+
+For example:
+
+```bash
+rsync -P -a -e 'ssh -p 1234' myfiles/ edebeste@localhost:
+```
+
+Note the `-a` option - this means "copy directories as well as files". The "-P" option was also used, which displays progress as the files are copied over the network.
+
+## Verifying files
+
 You can ensure the data that you have copied is not corrupt by using the `md5sum` command. This command will compute a digital signature that you can use to compare the data. To do this:
 
 - Log onto the machine that has the data you want to copy and go to the directory that holds your data.
@@ -49,7 +68,7 @@ You can ensure the data that you have copied is not corrupt by using the `md5sum
 - Once the data is copied, go to the machine that the data was copied to and run the same `md5sum <data_file>` command on that machine.
 - If the data is copied with no corruption you should see the same string that contains letter and numbers as you saw before. **It should be 100% identical**.
 
-## Issues Solves
+## Problem Solving
 
 You for some reason you find the following (or very similar) message during the steps above:
 
