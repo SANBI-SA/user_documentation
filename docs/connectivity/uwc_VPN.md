@@ -4,6 +4,34 @@ A user might want to access some UWC internal network devices or services while 
 
 =
 
+## MacOS
+
+#### Installing the app
+
+**Download the Open App   [HERE](https://raw.githubusercontent.com/SANBI-SA/user_documentation/master/docs/_files/openvpn-connect-3.3.6.4368_signed.dmg)**.
+
+**Download the OpenVPN profile file  [HERE](https://raw.githubusercontent.com/SANBI-SA/user_documentation/master/docs/_files/OVPN_SANBI_macos.ovpn)**.
+
+Install the app and open it, its a good idea to add it to your doc
+
+Next import the profile by using the file downloaded, chose file instead of url and use the opvn file
+
+
+![Import interface screen](../_media/vpn/macos/1.png)
+
+![Import interface screen](../_media/vpn/macos/2.png)
+
+
+Now fill in your VPN and password, check the save password cehckbox
+
+![Import interface screen](../_media/vpn/macos/3.png)
+
+
+Click the radio button to connect
+
+![Import interface screen](../_media/vpn/macos/5.png)
+
+
 ## Ubuntu Linux
 
 ### 16.04
