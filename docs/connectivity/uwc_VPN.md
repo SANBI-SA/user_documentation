@@ -2,8 +2,6 @@
 
 A user might want to access some UWC internal network devices or services while being outside of the university. In this case, the user must use a VPN connection in order for the user's machine to act is if they are on the UWC network.
 
-=
-
 ## MacOS
 
 #### Installing the app
