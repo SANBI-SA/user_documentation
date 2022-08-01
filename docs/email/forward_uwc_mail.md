@@ -36,4 +36,4 @@ If you check the mail box, (example@uwc.ac.za). There should be a verification l
 After clicking this link you will be taken to the last Gmail Confirmation page. Click proceed and this will setup the forwarding
 
 ### Step 10 ###
-Go back to the Settings page from Step3, select the new forwarding email address from the forwarding email addresses, your forwarding address (example@uwc.ac.za) should be an option. Select the radio button that corresponds to this email address ![Forwarding](../_media/email/fforwarding_checkbox.png)
+Go back to the Settings page from Step3, select the new forwarding email address from the forwarding email addresses, your forwarding address (example@uwc.ac.za) should be an option. Select the radio button that corresponds to this email address ![Forwarding](../_media/email/forwarding_checkbox.png)
