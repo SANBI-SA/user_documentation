@@ -3,6 +3,8 @@
     - [UWC Eduroam](connectivity/uwc_eduroam.md)
     - [SANBI VPN](connectivity/VPN.md)
     - [UWC VPN](connectivity/uwc_VPN.md)
+- **Email**
+    - [Setup Forwarding to UWC Email](email/forward_uwc_mail.md)
 - **Office**
     - [Connecting to the SANBI printer](office/printer.md)
 - **Cluster**
