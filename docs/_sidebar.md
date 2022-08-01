@@ -5,6 +5,7 @@
     - [UWC VPN](connectivity/uwc_VPN.md)
 - **Email**
     - [Setup Forwarding to UWC Email](email/forward_uwc_mail.md)
+    - [Setup Send as to UWC Email](email/send_add_uwc_mail.md)
 - **Office**
     - [Connecting to the SANBI printer](office/printer.md)
 - **Cluster**
